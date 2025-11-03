@@ -29,7 +29,7 @@ import ReplyComment from "./Pages/replyComment";
 import Reviews from "./Pages/ThanhToan";
 import Tragop0 from "./Pages/Tragop0";
 import QRPaymentPage from "./Pages/QRPaymentPage";
-import Morder from "./Admin/pagesAdmin/qldonhang/mOrder";
+import Morder from "./Admin/pagesAdmin/qldonhang/Morder";
 
 function App() {
   return (
